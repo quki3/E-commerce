@@ -75,5 +75,12 @@ Hi, how are you? Let’s start saying that I will being update this repository a
 5. Testing
 6. Deployment
 7. Monitoring and Maintenance
+## Components of CDNs structural support 
+1. Edge Servers
+2. Network Infrastructure
+3. Load Balancing
+4. Caching and Content Replication
+5. Content Routing and Optimization
+
 
 
