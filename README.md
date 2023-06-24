@@ -45,7 +45,7 @@ Hi, how are you? Let’s start saying that I will being update this repository a
 5. Data Management
 6. Integration and Compatibility
 7. Cost Efficiency
-## Integration
+## Types Integration
 1. Payment Gateways
 2. Shipping and Logistics Providers
 3. Inventory Management Systems
@@ -56,5 +56,24 @@ Hi, how are you? Let’s start saying that I will being update this repository a
 8. Customer Support and Live Chat
 9. ERP (Enterprise Resource Planning) Systems
 10. CRM for Customer Service
+## Form Integration
+1. Application Integration
+2. Data Integration
+3. System Integration
+## Model Integration
+1. Point-to-Point Integration
+2. Hub and Spoke Integration
+3. Enterprise Service Bus (ESB)
+4. Service-Oriented Architecture (SOA)
+5. Event-Driven Architecture (EDA)
+6. Hybrid Integration
+## how work integration?
+1. Analysis and Planning
+2. Design
+3. Development
+4. Data Mapping and Transformation
+5. Testing
+6. Deployment
+7. Monitoring and Maintenance
 
 
