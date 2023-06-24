@@ -46,7 +46,15 @@ Hi, how are you? Let’s start saying that I will being update this repository a
 6. Integration and Compatibility
 7. Cost Efficiency
 ## Integration
-1. -
-2. 
+1. Payment Gateways
+2. Shipping and Logistics Providers
+3. Inventory Management Systems
+4. Customer Relationship Management (CRM) Software
+5. Email Marketing Services
+6. Analytics and Reporting Tools
+7. Social Media Platforms
+8. Customer Support and Live Chat
+9. ERP (Enterprise Resource Planning) Systems
+10. CRM for Customer Service
 
 
