@@ -91,7 +91,16 @@ Hi, how are you? Let’s start saying that I will being update this repository a
 7. Overhead and Administrative Costs
 8. Contingency and Risk Management
 ## Performans Analisys
-
+1. Website Speed
+   -  thinkwithgoogle.com
+   -  GTmetrix
+3. Server Response Time
+4. Conversion Funnel Analysis
+5. Mobile Performance
+6. Database and Backend Performance
+7. Content Delivery Network (CDN)
+8. A/B Testing
+## Marketplace
 
 
 
