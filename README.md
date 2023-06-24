@@ -101,6 +101,27 @@ Hi, how are you? Let’s start saying that I will being update this repository a
 7. Content Delivery Network (CDN)
 8. A/B Testing
 ## Marketplace
+Is a digital platform where multiple third-party sellers or vendors can list and sell their products or services to consumers. It acts as an intermediary, connecting buyers and sellers in a virtual marketplace.provides the infrastructure, technology, and tools necessary for sellers to list their products, manage inventory, and process transactions.
+- Wide Product Selection
+- Competitive Pricing
+- Convenience
+- Seller Opportunities
+- Trust and Security
+- Additional Services
+  - leads
+  - services
+  - RETAIL
+  ### Marketplace Admin
+  1. Platform Management
+  2. Seller Onboarding and Verification
+  3. Product/Service Listing Management
+  4. Marketplace Policies and Terms
+  5. Transaction Facilitation
+  6. Seller Support and Communication
+  7. Quality Control and Customer Satisfaction
+  8. Marketing and Promotion
+  
+
 
 
 
